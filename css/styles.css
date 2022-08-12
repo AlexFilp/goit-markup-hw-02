@@ -59,6 +59,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.contact-link {
+  color: var(--secondary-text-clr);
+}
+
 .header-link:hover,
 .header-link:focus {
   color: var(--brand-clr);
@@ -111,6 +115,7 @@ body {
 .item-text {
   font-size: 14px;
   line-height: 1.71;
+  color: var(--secondary-text-clr);
 }
 
 /* TEAM */
@@ -151,6 +156,11 @@ body {
   font-size: 14px;
   line-height: 1.71;
   color: var(--main-bg);
+}
+
+.footer-address-link:hover,
+.footer-address-link:focus {
+  color: var(--brand-clr);
 }
 
 .transparency-link {
