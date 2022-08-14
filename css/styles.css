@@ -88,6 +88,7 @@ body {
 }
 
 .hero-btn {
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -113,7 +114,6 @@ body {
   text-transform: uppercase;
 }
 .item-text {
-  font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-text-clr);
 }
@@ -170,6 +170,7 @@ body {
 /* PORTFOLIO BUTTONS */
 
 .portfolio-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
